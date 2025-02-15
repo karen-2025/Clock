@@ -1,0 +1,3 @@
+".\Objects\Touch.obj" 
+TO ".\Objects\Touch" 
+PRINT(".\Listings\Touch.m51") RAMSIZE(256) 
